@@ -15,3 +15,16 @@ p {
   color: #444;
   line-height: 1.8;
 }
+
+.dark {
+  background-color: #1a1a2e;
+  color: #ffffff;
+}
+
+.dark h1 {
+  color: #818cf8;
+}
+
+.dark h2 {
+  color: #cccccc;
+}
